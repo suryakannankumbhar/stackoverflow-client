@@ -1,0 +1,12 @@
+{
+    "enteremailandpassword":"Enter Email and Password",
+    "enteraname":"Enter a Name to Continue",
+    "name":"Name",
+    "email":"Email",
+    "password":"Password",
+    "forgotpassword":"Forgot Password?",
+    "login":"Login",
+    "signup":"Sign Up",
+    "alreadyacc":"Already have an account?",
+    "noacc":"Don't have an account?"
+}

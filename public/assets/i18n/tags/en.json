@@ -1,0 +1,12 @@
+{
+    "users":"Users",
+    "kotlin":"Kotlin is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+    "python":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+    "c":"C# is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+    "javascript":"JavaScript is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation." ,
+    "android":"Android is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. ",
+    "php":"PHP is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+    "tags":"Tags",
+    "atagisakeyword":"A tag is a keyword or label that categorizes your question with other, similar questions.",
+    "usingtherighttags":"Using the right tags makes it easier for others to find and answer your question."
+}

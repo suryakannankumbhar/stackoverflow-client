@@ -1,0 +1,12 @@
+{
+    "enteremailandpassword": "Ingresa Correo Electrónico y Contraseña",
+    "enteraname": "Ingresa un Nombre para Continuar",
+    "name": "Nombre",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "forgotpassword": "¿Olvidaste tu Contraseña?",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "alreadyacc": "¿Ya tienes una cuenta?",
+    "noacc": "¿No tienes una cuenta?"
+}

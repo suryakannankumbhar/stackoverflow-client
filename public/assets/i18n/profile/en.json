@@ -1,0 +1,27 @@
+{
+    "points":"Points",
+    "joined":"Joined",
+    "editprofile":"Edit Profile",
+    "badges":"Badges",
+    "howtoearnpoints":"How to earn points",
+    "get10points": "Get 10 points on every  4 answer like 4,8,12,16... delete answer don't minus points",
+    "ifanyuserupvoteyourquestionyouget2points":"If any user upvote your question you get 2 points",
+    "tagswatched":"Tags Watched",
+    "0tagswatched":"0 tags watched",
+    "about":"About",
+    "nobiofound":"No bio found",
+    "edityourprofile":"Edit Your Profile",
+    "publicinformation":"Public Information",
+    "displayname":"Display Name",
+    "aboutme":"About Me",
+    "watchedtags":"Watched Tags",
+    "addtagsseparatedby1space":"Add tags separated by 1 space",
+    "cancel":"Cancel",
+    "saveprofile":"Save Profile",
+    "accquired":"Accquired!",
+    "15points":"Earn 15 points to get Silver badge",
+    "30points":"Earn 30 points to get Gold badge",
+    "50points":"Earn 50 points to get Diamond badge"
+
+    
+}

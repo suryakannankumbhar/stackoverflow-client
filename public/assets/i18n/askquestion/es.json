@@ -1,0 +1,12 @@
+{
+    "askapublicquestion": "Realizar una Pregunta Pública",
+    "title": "Título",
+    "bespecific": "Sé específico e imagina que le estás haciendo una pregunta a otra persona",
+    "isthereanrfunction": "por ejemplo, ¿Existe una función en R para encontrar el índice de un elemento en un vector?",
+    "body": "Cuerpo",
+    "includealltheinfo": "Incluye toda la información que alguien necesitaría para responder tu pregunta",
+    "tags": "Etiquetas",
+    "addupto5tags": "Agrega hasta 5 etiquetas para describir de qué trata tu pregunta",
+    "typescriptwordpress": "por ejemplo, (xml typescript wordpress)",
+    "submityourquestion": "Enviar tu Pregunta"
+}
